@@ -1,4 +1,4 @@
-package wezeparking;
+package model;
 
 public class Ticket {
     long number;
